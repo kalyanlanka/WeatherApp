@@ -7,10 +7,6 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>WebActivityComponent</members>
-        <name>ApexComponent</name>
-    </types>
-    <types>
         <members>WeatherApp</members>
         <name>ApexPage</name>
     </types>
